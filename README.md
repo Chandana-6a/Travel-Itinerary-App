@@ -1,7 +1,5 @@
 # USTravel App
 
-## Description
-
 USTravel App is a demo application designed to showcase essential features of a travel guiding app. It provides travelers with valuable information about various destinations, including:
 
 - **Top Tourist Places**: Discover the best spots to visit in a destination.
@@ -19,3 +17,7 @@ The US Travel App is developed using:
 - **SwiftUI**: For building the user interface.
 - **Swift**: For application logic and functionality.
 - **Xcode**: The integrated development environment (IDE) for building and running the app.
+- **Firebase**: Used to store and fetch user credentials, fetches location details.
+- **Weather API**: The API used to fetch weather data like temperature and details.
+  
+
